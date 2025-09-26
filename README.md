@@ -19,6 +19,12 @@ LIMITATION:
 My project has some limitations that can affect their functionality and performance. The console mode program has limitations in terms of user-friendliness, as it requires users to input commands manually. The Console has limited inventory size The inventory is initialized with a fixed size of 10, and it cannot be expanded beyond that. On the other hand, the GUI mode program may have limitations in terms of scalability and speed. As the program has a graphical user interface, it may require more resources and processing power to display information and respond to user inputs. This can lead to performance issues, especially when dealing with large amounts of data. Additionally, the GUI mode program may not be as flexible as the console mode program, as users are limited to the options and features provided by the interface. The GUI has lack of input validation The program does not validate user input, making it prone to errors and crashes. For example, when a user adds a new product, the program assumes that the input is valid and does not check if the user has entered valid data, such as a valid price and quantity. The program's user interface is basic and lacks customization options. For example, the user cannot change the size or color of the text in the output area or the table in the view inventory function. The program does not save data between sessions, which means that every time the program is restarted, all the data entered by the user is lost. Storing data in a database or file would allow the program to remember the user's data between sessions. The program only has a few functions, such as adding a product, viewing the inventory, deleting a product, selling a product, and calculating total sales.
 
 
-FLOWCHART
+FLOWCHART (GUI and CONSOLE)
+
+
+<img width="947" height="632" alt="image" src="https://github.com/user-attachments/assets/76c82c74-40cc-4c7b-bf0c-c6bc358e2428" />
+
+
+
 <img width="898" height="602" alt="image" src="https://github.com/user-attachments/assets/7555a3f3-1de5-4b5e-82a4-33a02fb45050" />
 
